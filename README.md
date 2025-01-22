@@ -6,7 +6,8 @@ Uma calculadora simples e moderna desenvolvida com HTML, CSS e JavaScript. Este 
 
 <img src="screenshot.png" alt="Calculadora" width="500">
 
-> **Nota**: Inclua uma captura de tela (`screenshot.png`) do projeto no repositório para melhor visualização.
+![image](https://github.com/user-attachments/assets/f01d8ab7-ad96-4fdb-978a-5a214d432429)
+
 
 ## 📋 Funcionalidades
 
