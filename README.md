@@ -1,6 +1,6 @@
 # Calculator
 
-Uma calculadora simples e moderna desenvolvida com HTML, CSS e JavaScript. Este projeto possui um design colorido, elegante e é totalmente funcional para operações básicas de cálculo.
+Uma calculadora simples desenvolvida com HTML, CSS e JavaScript. Este projeto possui um design  elegante e é totalmente funcional para operações básicas de cálculo.
 
 ## 🖼️ Demonstração
 
